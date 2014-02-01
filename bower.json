@@ -1,0 +1,10 @@
+{
+    "name": "r2d2-splash",
+    "version": "1.0.0",
+    "main": "index.html",
+    "ignore": [],
+    "dependencies": {
+        "lesshat": "~2.0"
+    },
+    "private": true
+}
